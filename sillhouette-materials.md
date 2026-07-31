@@ -13,4 +13,26 @@
 
 
 
+# Papek Kraft On Papel 200gr
+
+## Cut
+
+Força: 20
+Velocidade: 3
+Passadas: 4
+Lâmina: Auto-tool 1mm
+Profundidade: 4
+
+Não deve cortar. Depois passar novamente com profundidade 6, 2 passadas. Não passe 6 direto pois pode emperrar.
+
+## Sketch
+
+Força: 7
+Velocidade: 5
+Passadas: 1
+Lâmina: Auto-tool 1mm
+Profundidade: 4
+
+Faria mais fraco (mais rápido e menos força vel 7, For 5) pra ver se fica mais suave.
+
 
